@@ -1,0 +1,6 @@
+print(f"[{'left':<10}]")
+print(f"[{'right':>10}]")
+print(f"[{'mid':^10}]")
+print(f"[{'fill':*^10}]")      
+print(f"[{42:>8}]")
+print(f"[{3.14159:>8.2f}]")
