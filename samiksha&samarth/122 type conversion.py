@@ -1,0 +1,6 @@
+print(int("42") + 1)
+print(float("3.14") * 2)
+print(str(42) + "!")
+print(int(3.9), int(-3.9))      
+print(float(5))
+print(str(3.0))
